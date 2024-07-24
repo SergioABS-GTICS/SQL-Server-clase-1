@@ -35,4 +35,8 @@ Se crean los esquemas a utilizar en la propia db en la que los emplearemos
 
 ![image](https://github.com/user-attachments/assets/6a1b0795-5298-4cac-9997-7568b6275cd6)
 
+## Creación de tabla
+
+![image](https://github.com/user-attachments/assets/8d3d9687-384a-41b0-b006-a216c5aab93d)
+
 
