@@ -9,3 +9,9 @@ Las tablas temporales no se crean en la propia db en la que estamos trabajando. 
 
 ![image](https://github.com/user-attachments/assets/367909e2-7aa0-40a1-9e8d-f888ce751375)
 
+## BASES DE DATOS EN MICROSOFT
+
+OLTP: Estudia el modelo Entidad-Relación - Usado en las empresas y normalmente
+Data Warehouse: Análisis 
+
+![image](https://github.com/user-attachments/assets/5755f4fa-c9e2-492c-a4e1-d7c45d8089f4)
