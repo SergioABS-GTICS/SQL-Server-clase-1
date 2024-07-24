@@ -24,3 +24,16 @@ Se crean los esquemas a utilizar en la propia db en la que los emplearemos
 
 **Consulta por los nombres de esquemas creados**
 ![image](https://github.com/user-attachments/assets/148acd34-0399-4978-a66d-09953887e77d)
+
+## TIPOS DE CONSULTAS
+
+![image](https://github.com/user-attachments/assets/85dab261-2da5-4c87-bb86-b1fc13ce684b)
+
+![image](https://github.com/user-attachments/assets/517f5cdc-ab4e-4500-9bfa-49e242786b79)
+
+![image](https://github.com/user-attachments/assets/6a1b0795-5298-4cac-9997-7568b6275cd6)
+
+
+![image](https://github.com/user-attachments/assets/532ccb59-1f1b-44f5-be1d-05b3b6903f5f)
+
+
